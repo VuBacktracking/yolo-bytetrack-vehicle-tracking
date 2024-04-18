@@ -20,7 +20,9 @@ Vehicle tracking and counting are essential tasks in traffic management, surveil
 ---
 
 ### ByteTrack
-![ByteTrack](assets/img/mot20-track.png){: width="300px"}
+<p align = "center">
+    <img src="assets/img/mot20-track.png" alt="workflow" width="70%">
+</p>
 
 ---
 
