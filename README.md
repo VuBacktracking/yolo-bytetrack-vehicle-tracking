@@ -66,4 +66,4 @@ Run the main.py
 python3 main.py
 ```
 ## Demo
-<img width="1399" alt="Screenshot 2024-03-27 at 11 57 42" src="https://github.com/VuBacktracking/yolo-bytetrack-vehicle-tracking/blob/main/assets/video/vehicle-counting-result.mp4">
+<img width="1399" alt="Vehicle Counting Result" src="https://github.com/VuBacktracking/yolo-bytetrack-vehicle-tracking/raw/main/assets/video/vehicle-counting-result.mp4">
