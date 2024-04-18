@@ -1,4 +1,4 @@
-from trackyolo import ObjectTracking
+from object_tracking import ObjectTracking
 from ultralytics import YOLO
 
 INPUT_PATH = "assets/video/vehicle-counting.mp4"
