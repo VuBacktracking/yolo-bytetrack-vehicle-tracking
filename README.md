@@ -38,15 +38,14 @@ Vehicle tracking and counting are essential tasks in traffic management, surveil
 - Python 3.x
 - PyTorch
 - Supervision
-- Ultralytics
-- CUDA (optional for GPU acceleration)
+- Ultralytics - YOLO
 
 ## Installation
 
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/VuBacktracking/Vehicle-Tracking-and-Counting-Using-YOLO-ByteTrack.git
+git clone https://github.com/VuBacktracking/yolo-bytetrack-vehicle-tracking.git
 ```
 
 Setup virtual enviroment
@@ -66,4 +65,5 @@ Run the main.py
 python3 main.py
 ```
 ## Demo
-<img width="1399" alt="Vehicle Counting Result" src="https://github.com/VuBacktracking/yolo-bytetrack-vehicle-tracking/raw/main/assets/video/vehicle-counting-result.mp4">
+<video width="1399" alt="Vehicle Counting Result" src="assets/video/vehicle-counting-result.mp4" style = "max-width:730px">
+</video>
