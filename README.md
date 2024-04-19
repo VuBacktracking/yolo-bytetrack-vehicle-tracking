@@ -65,5 +65,4 @@ Run the main.py
 python3 main.py
 ```
 ## Demo
-<video width="1399" alt="Vehicle Counting Result" src="assets/video/vehicle-counting-result.mp4" style = "max-width:730px">
-</video>
+https://github.com/VuBacktracking/yolo-bytetrack-vehicle-tracking/assets/95456622/ab2e3eb4-f673-4cc5-a0a3-ec6955bd0cdd
