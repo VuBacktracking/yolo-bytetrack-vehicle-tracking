@@ -20,7 +20,9 @@ Vehicle tracking and counting are essential tasks in traffic management, surveil
 ---
 
 ### ByteTrack
-![ByteTrack](assets/img/mot20-track.png){: width="300px"}
+<p align = "center">
+    <img src="assets/img/mot20-track.png" alt="workflow" width="70%">
+</p>
 
 ---
 
@@ -64,8 +66,4 @@ Run the main.py
 python3 main.py
 ```
 ## Demo
-<<<<<<< HEAD
-![video](https://github.com/VuBacktracking/Vehicle-Tracking-and-Counting-Using-YOLO-ByteTrack/tree/main/assets/video)
-=======
 <img width="1399" alt="Vehicle Counting Result" src="https://github.com/VuBacktracking/yolo-bytetrack-vehicle-tracking/raw/main/assets/video/vehicle-counting-result.mp4">
->>>>>>> 4b0bf4a27439e17f7bde22d69933e9f04165757b
